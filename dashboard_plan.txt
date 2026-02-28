@@ -1,0 +1,6 @@
+Dashboard Layout Plan:
+- Top row: 3 KPI cards (Total Sales, Market Share, Top Model)
+- Middle left: Model Share Bar Chart
+- Middle right: Revenue Line Chart
+- Bottom: Country Map
+- Filters: Year, iPhone Model, Region (to be added on right side)

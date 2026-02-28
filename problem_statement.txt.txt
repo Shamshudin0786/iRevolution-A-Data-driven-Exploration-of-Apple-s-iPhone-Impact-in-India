@@ -1,0 +1,2 @@
+Project: iRevolution - Apple's iPhone Impact in India
+Problem: To analyze and visualize how iPhone has penetrated the Indian market, including sales trends, model popularity, and regional adoption patterns.
